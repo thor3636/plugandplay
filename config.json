@@ -1,0 +1,34 @@
+{
+  "channel_title": "SIGNAL / PLUGINS",
+  "max_items": 8,
+  "lookback_hours": 36,
+  "min_title_length": 8,
+  "post_when_empty": false,
+  "sources": [
+    {
+      "name": "KVR Audio",
+      "url": "https://www.kvraudio.com/news-feed.php",
+      "enabled": true
+    },
+    {
+      "name": "Bedroom Producers Blog",
+      "url": "https://bedroomproducersblog.com/feed/",
+      "enabled": true
+    },
+    {
+      "name": "rekkerd.org",
+      "url": "https://rekkerd.org/feed/",
+      "enabled": true
+    }
+  ],
+  "relevance_keywords": [
+    "plugin", "plug-in", "vst", "vst3", "audio unit", " au plugin",
+    "synth", "synthesizer", "sampler", "sound design", "granular",
+    "effect", "effects", "reverb", "delay", "distortion", "modulation",
+    "compressor", "equalizer", "free plugin", "free vst", "instrument",
+    "ableton", "audio software", "music software", "daw"
+  ],
+  "exclude_keywords": [
+    "giveaway winner", "artist interview", "album review", "live concert"
+  ]
+}
